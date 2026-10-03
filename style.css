@@ -1,3 +1,46 @@
-p{
-    font-size: 2000px;
+/* p{
+    font-size: 20px;
+}
+p.center{
+    text-align: center;
+    color:rgb(255, 94, 0);
+    border: 2px solid blue;
+    border-style:line;
+    background-color: beige;
+    border-width: 20px 10px 20px 10px ;
+    border-color: aqua red blue violet;
+}
+#paral{
+    text-align: right;
+    color:brown;
+    background-color: aquamarine;
+}
+p.large{
+    text-align: center;
+    font-size: 200px;
+    color:aqua;
+    border-style: dotted;
+    background-image: url(c:/Users/LENOVO/Pictures/animal-8178833_640.jpg);
+    margin:auto ;
+}
+div {
+background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green ;
+  padding: 50px;
+  margin: 20px;  
+  text-align: center;
+  line-height: 1.5;
+  h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: aqua;
+    text-decoration: line-through;
+    text-decoration-style:dotted ;
+    letter-spacing: 2px;
+    text-shadow: 2px 5px 3px red;
+  }
+} */
+button{
+color:blue;
 }
